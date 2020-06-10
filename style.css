@@ -1,0 +1,101 @@
+/**SHOHAN**/
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.wraper{
+ 
+}
+.header-area{
+  overflow: hidden;
+}
+.logo{
+  height: 60px;
+  width: 24%;
+  background-color: #27ae60;
+  float:left;
+}
+.header{
+  height: 60px;
+  width: 76%;
+  background-color: #34495e;
+  float: right;
+  
+}
+
+.header h2{
+  text-align: center;
+  color: #fff;
+  margin-top: 14px;
+}
+.content-area{
+
+  overflow: hidden;
+  
+}
+.side-bar{
+  width: 24%;
+  height: 700px;
+  background-color: #1abc9c;
+  float: left;
+}
+.left-content{
+  
+  width: 75%;
+  float: right;
+  overflow: hidden;
+}
+.left-bar{
+  width: 229px;
+  height: 528px;
+  background-color: #7f8c8d;
+  float: right;
+}
+.up-row{
+  overflow: hidden;
+}
+.big-box{
+  width:252px;
+  height: 253px;
+  background-color: #c0392b;
+  float: left;
+  margin-left: 6px;
+  margin-top: 6px;
+  overflow: hidden;
+}
+.grid-box{
+  overflow: hidden;
+}
+.grid{
+  width: 120px;
+  height: 120px;
+  background-color:#d35400; 
+  float: left;
+  margin: 6px;
+  
+}
+.g{
+  background-color: #95a5a6;
+  height: 173px;
+  margin-top: 528px;
+}
+.footer{
+  background-color: #3498db;
+  
+  height: 172px;
+  margin-top: 5px;
+}
+.footer h2{
+  
+  text-align: center;
+  padding-top: 65px;
+  font-size: 43px;
+  color: #fff;
+}
+.big-box h2{
+  
+  text-align: center;
+  color: #fff;
+  margin-top: 74px;
+  font-size: 42px;
+}
